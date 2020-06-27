@@ -1,0 +1,13 @@
+{
+  "name": "auth-service",
+  "version": "1.0.0",
+  "author": "Jatin Singh Saluja",
+  "description": "Auth Service for protecting API gateway endpoints",
+  "license": "MIT",
+  "dependencies": {
+    "jsonwebtoken": "^8.1.0"
+  },
+  "devDependencies": {
+    "serverless-bundle": "^1.3.3"
+  }
+}
